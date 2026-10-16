@@ -1,3 +1,0 @@
-GitHub publishing connection test from ChatGPT.
-Created 2026-10-16.
-This file does not affect index.html or the crossword website.
